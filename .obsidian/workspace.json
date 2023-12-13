@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58c3efa8a37c722d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/일지/1.7 테스트케이스 추가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/일지/1.7 테스트케이스 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/일지/1.7 테스트케이스 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/일지/2023-12-13.md"
+                "file": "Root/일지/1.7 테스트케이스 추가.md"
               }
             }
           },
@@ -200,10 +212,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "49e1412474f3853a",
+  "active": "58c3efa8a37c722d",
   "lastOpenFiles": [
-    "README.md",
     "Root/일지/2023-12-13.md",
+    "Root/일지/1.7 테스트케이스 추가.md",
+    "README.md",
     "Root/일지/일지 템플릿.md",
     "2023-12-13.md",
     "Root/일지",
@@ -237,7 +250,6 @@
     "무제 파일.canvas",
     "Drawing 2023-12-12 10.27.57.excalidraw.md",
     "sister Lara.md",
-    "child Andre.md",
-    "mom.md"
+    "child Andre.md"
   ]
 }
