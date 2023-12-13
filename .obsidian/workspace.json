@@ -13,48 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/독서/독서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d1bb0a649a8db44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ee8f2ba6a2a3918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/회사/회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424af71cd20d1017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/회사/회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c329569fbeeb376f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Root.md",
                 "mode": "source",
                 "source": false
@@ -62,12 +20,36 @@
             }
           },
           {
-            "id": "2a3f7dc1498cd3c4",
+            "id": "823e0a66289bcedb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/독서/독서.md",
+                "file": "Root/회사/회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e1412474f3853a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a04cd5ed781a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/일지/일지 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/독서/독서.md",
+                "file": "Root/일지/일지 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/독서/독서.md",
+                "file": "Root/일지/일지 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/독서/독서.md"
+                "file": "Root/일지/일지 템플릿.md"
               }
             }
           },
@@ -230,38 +212,43 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0f630f777068647f",
+  "active": "75a04cd5ed781a19",
   "lastOpenFiles": [
-    "Root/회사/회사.md",
-    "Root/독서/독서.md",
-    "Root/지식/지식.md",
-    "Root/루틴/루틴 1.md",
-    "Root/루틴/루틴.md",
-    "Root/루틴/건강지표.md",
     "README.md",
-    "Root/독서/독서 1.md",
+    "Root/일지/일지 템플릿.md",
+    "2023-12-13.md",
+    "Root/일지",
+    "Root/회사/SEO/SEO프로젝트.md",
+    "Root/회사/회사.md",
     "Root.md",
-    "Root/회사/마인드카페 EAP Partner.md",
-    "Root/회사/마인드카페 Admin.md",
-    "Root/회사/마인드카페 전문가 콘솔.md",
-    "Root/회사/마인드카페 PC.md",
+    "Root/회사/PC",
+    "Root/회사/EAP",
+    "Root/회사/admin",
+    "Root/회사/전문가 콘솔",
+    "Root/회사/SEO",
+    "Root/독서/독서.md",
+    "Root/루틴/운동/운동.md",
     "Root/루틴/운동/식단.md",
+    "Root/루틴/루틴.md",
+    "Root/루틴/루틴.md",
+    "Root/지식/지식.md",
+    "Root/루틴/건강지표.md",
+    "Root/독서/독서 1.md",
+    "Root/회사/EAP/마인드카페 EAP Partner.md",
+    "Root/회사/admin/마인드카페 Admin.md",
+    "Root/회사/전문가 콘솔/마인드카페 전문가 콘솔.md",
+    "Root/회사/PC/마인드카페 PC.md",
     "Root/루틴 1/루틴.md",
     "Root/루틴 1",
     "Root/지식",
     "Root/독서",
     "Root/회사",
-    "Root/루틴",
-    "Root/루틴/운동",
     "dad.md",
-    "Root",
     "juggl(저글).md",
-    "2023-12-13.md",
     "무제 파일.canvas",
     "Drawing 2023-12-12 10.27.57.excalidraw.md",
     "sister Lara.md",
     "child Andre.md",
-    "mom.md",
-    "Root/루틴/운동/운동.md"
+    "mom.md"
   ]
 }
