@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5802784a2c3d445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/일지/2023-12-13.md"
+                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md"
               }
             }
           },
@@ -181,17 +193,9 @@
               "type": "juggl_nodes",
               "state": {}
             }
-          },
-          {
-            "id": "cf471efd05b41772",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,10 +216,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9fd26d54a077c262",
+  "active": "b5802784a2c3d445",
   "lastOpenFiles": [
-    "Root/회사/SEO/SEO 미팅 내용 정리.md",
     "Root/일지/2023-12-13.md",
+    "Root.md",
+    "Root/회사/SEO/SEO 미팅 내용 정리.md",
     "Root/일지/일지 템플릿.md",
     "Root/회사/1.7 테스트케이스 추가.md",
     "Root/회사/admin/마인드카페 Admin(어드민).md",
@@ -224,7 +229,6 @@
     "Root/일지",
     "Root/회사/SEO/SEO프로젝트.md",
     "Root/회사/회사.md",
-    "Root.md",
     "Root/회사/PC",
     "Root/회사/EAP",
     "Root/회사/admin",
