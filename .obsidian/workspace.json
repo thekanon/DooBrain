@@ -4,87 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2b727ce3dc4fb8",
+        "id": "a90690ce791ded1a",
         "type": "tabs",
         "children": [
           {
-            "id": "f509b815663a80a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8bdbe614b7dce22",
+            "id": "715926c90ca40611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a3f0b1b367f3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74ca8839919cfa7b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "427113d277b7b760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfdc91787e30e8b1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "617c9973a4cb2229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root.md",
+                "file": "Root/루틴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root.md",
+                "file": "Root/루틴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root.md",
+                "file": "Root/루틴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root.md"
+                "file": "Root/루틴.md"
               }
             }
           },
@@ -218,12 +153,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,15 +175,27 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0f630f777068647f",
+  "active": "715926c90ca40611",
   "lastOpenFiles": [
-    "회사.md",
-    "루틴.md",
-    "건강지표.md",
-    "식단.md",
-    "운동.md",
     "Root.md",
-    "독서.md",
-    "지식.md"
+    "Root/루틴.md",
+    "Root/루틴",
+    "Root/회사.md",
+    "Root/루틴/운동",
+    "dad.md",
+    "Root",
+    "juggl(저글).md",
+    "2023-12-13.md",
+    "무제 파일.canvas",
+    "Drawing 2023-12-12 10.27.57.excalidraw.md",
+    "sister Lara.md",
+    "README.md",
+    "Root/지식.md",
+    "child Andre.md",
+    "mom.md",
+    "Root/건강지표.md",
+    "Root/식단.md",
+    "Root/운동.md",
+    "Root/독서.md"
   ]
 }
