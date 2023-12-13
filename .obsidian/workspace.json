@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Root/독서/독서.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,6 +55,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a3f7dc1498cd3c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Root/회사/회사.md",
                 "mode": "source",
                 "source": false
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 416.5
   },
   "right": {
     "id": "cf607ab3345077b2",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/회사.md",
+                "file": "Root/독서/독서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/회사.md",
+                "file": "Root/독서/독서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/회사.md"
+                "file": "Root/독서/독서.md"
               }
             }
           },
@@ -218,24 +230,24 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c329569fbeeb376f",
+  "active": "715926c90ca40611",
   "lastOpenFiles": [
-    "Root/회사/마인드카페 EAP Partner.md",
+    "Root/지식/지식.md",
+    "Root/루틴/루틴 1.md",
+    "Root/루틴/루틴.md",
+    "Root/루틴/건강지표.md",
+    "Root/독서/독서.md",
+    "README.md",
+    "Root/독서/독서 1.md",
     "Root/회사/회사.md",
+    "Root.md",
+    "Root/회사/마인드카페 EAP Partner.md",
     "Root/회사/마인드카페 Admin.md",
     "Root/회사/마인드카페 전문가 콘솔.md",
     "Root/회사/마인드카페 PC.md",
-    "Root/지식/지식.md",
-    "Root.md",
-    "Root/독서/독서 1.md",
-    "Root/루틴/루틴 1.md",
     "Root/루틴/운동/식단.md",
-    "Root/루틴/건강지표.md",
-    "README.md",
-    "Root/루틴/루틴.md",
     "Root/루틴 1/루틴.md",
     "Root/루틴 1",
-    "Root/독서/독서.md",
     "Root/지식",
     "Root/독서",
     "Root/회사",
