@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58c3efa8a37c722d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/일지/1.7 테스트케이스 추가.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/일지/1.7 테스트케이스 추가.md",
+                "file": "Root/일지/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/일지/1.7 테스트케이스 추가.md",
+                "file": "Root/일지/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/일지/1.7 테스트케이스 추가.md"
+                "file": "Root/일지/2023-12-13.md"
               }
             }
           },
@@ -212,10 +200,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "58c3efa8a37c722d",
+  "active": "49e1412474f3853a",
   "lastOpenFiles": [
-    "Root/일지/2023-12-13.md",
     "Root/일지/1.7 테스트케이스 추가.md",
+    "Root/회사/admin/마인드카페 Admin(어드민).md",
+    "Root/일지/2023-12-13.md",
     "README.md",
     "Root/일지/일지 템플릿.md",
     "2023-12-13.md",
@@ -237,7 +226,6 @@
     "Root/루틴/건강지표.md",
     "Root/독서/독서 1.md",
     "Root/회사/EAP/마인드카페 EAP Partner.md",
-    "Root/회사/admin/마인드카페 Admin.md",
     "Root/회사/전문가 콘솔/마인드카페 전문가 콘솔.md",
     "Root/회사/PC/마인드카페 PC.md",
     "Root/루틴 1/루틴.md",
