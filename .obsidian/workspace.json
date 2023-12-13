@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/회사.md",
+                "file": "Root/독서/독서.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,16 +230,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "715926c90ca40611",
+  "active": "0f630f777068647f",
   "lastOpenFiles": [
+    "Root/회사/회사.md",
+    "Root/독서/독서.md",
     "Root/지식/지식.md",
     "Root/루틴/루틴 1.md",
     "Root/루틴/루틴.md",
     "Root/루틴/건강지표.md",
-    "Root/독서/독서.md",
     "README.md",
     "Root/독서/독서 1.md",
-    "Root/회사/회사.md",
     "Root.md",
     "Root/회사/마인드카페 EAP Partner.md",
     "Root/회사/마인드카페 Admin.md",
