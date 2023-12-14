@@ -140,12 +140,12 @@
             }
           },
           {
-            "id": "471dd4691b585a1b",
+            "id": "f85f8dc9c99f30bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/지식/IT/Front/렌더링(웹).md",
+                "file": "Root/지식/IT/Front/Critical CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/Front/렌더링(웹).md",
+                "file": "Root/지식/IT/Front/Critical CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/Front/렌더링(웹).md",
+                "file": "Root/지식/IT/Front/Critical CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/Front/렌더링(웹).md"
+                "file": "Root/지식/IT/Front/Critical CSS.md"
               }
             }
           },
@@ -300,15 +300,26 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "471dd4691b585a1b",
+  "active": "f85f8dc9c99f30bc",
   "lastOpenFiles": [
-    "Root/지식/IT/Front/이미지 압축(Compression).md",
+    "Root/지식/IT/Front/초기 로딩.md",
+    "Root/지식/IT/Front/Critical CSS.md",
     "Root/지식/IT/Front/렌더링(웹).md",
+    "Root/지식/IT/Front/이미지 최적화.md",
+    "Root/지식/IT/Front/CDN.md",
+    "Root/지식/IT/Front/브라우저 캐싱.md",
+    "Root/지식/IT/Front/Lazy Loading.md",
+    "Root/지식/IT/Front/JavaScript 비동기 로딩.md",
+    "Root/지식/IT/Front/최소화(Minification).md",
+    "Root/지식/IT/Front/Minification.md",
+    "Root/지식/IT/Front/압축(Compression).md",
+    "Root/지식/IT/Front/이미지 압축(Image Compression).md",
+    "Root/지식/IT/Front/웹 포맷 사용.md",
+    "Root/지식/IT/Front/지연 로딩(Lazy Loading).md",
+    "Root/지식/IT/Front/적응형 이미지(Responsive Images).md",
     "Root/지식/IT/Front/CSS 최적화.md",
     "Root/지식/IT/Front/코드 분할(Code Splitting).md",
     "Root/지식/IT/Front/트리 쉐이킹(Tree Shaking).md",
-    "Root/지식/IT/Front/최소화(Minification).md",
-    "Root/지식/IT/Front/초기 로딩.md",
     "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
     "Root/지식/IT/Front/SR(정적 렌더링).md",
     "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
@@ -319,23 +330,12 @@
     "Root/지식/IT",
     "Root/일지/2023-12-14.md",
     "Root/회사/SEO/SEO 미팅 후 FE 관련 기술검증, 결과 정리.md",
-    "Root/일지/2023-12-13.md",
-    "Root/회사/SEO/SEO 미팅 내용 정리.md",
-    "Root.md",
-    "Root/일지/일지 템플릿.md",
-    "Root/회사/1.7 테스트케이스 추가.md",
-    "Root/회사/admin/마인드카페 Admin(어드민).md",
-    "README.md",
-    "2023-12-13.md",
     "Root/일지",
-    "Root/회사/SEO/SEO프로젝트.md",
-    "Root/회사/회사.md",
     "Root/회사/PC",
     "Root/회사/EAP",
     "Root/회사/admin",
     "Root/회사/전문가 콘솔",
     "Root/회사/SEO",
-    "Root/독서/독서.md",
     "Root/루틴 1",
     "Root/지식",
     "무제 파일.canvas"
