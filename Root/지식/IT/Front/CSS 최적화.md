@@ -1,0 +1,1 @@
+1. **CSS 최적화**: CSS 파일에서 사용되지 않는 스타일을 제거하고, CSS 선택자의 복잡도를 줄입니다. CSS-in-JS 라이브러리(예: Styled Components, Emotion)는 불필요한 CSS를 자동으로 제거하는 기능을 제공하기도 합니다.
