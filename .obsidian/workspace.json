@@ -42,117 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9fd26d54a077c262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/일지/2023-12-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5802784a2c3d445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/일지/2023-12-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ebbef2303e883da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/워드프레스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e14e861c9d5bf6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/일지/SEO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1fd1bdc38edc5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/일지/SEO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fd3b374cb2a5a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6d72c9b27e132dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3cbfd664e118ec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/초기 로딩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f85f8dc9c99f30bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/Critical CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/Front/Critical CSS.md",
+                "file": "Root/일지/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/Front/Critical CSS.md",
+                "file": "Root/일지/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/Front/Critical CSS.md"
+                "file": "Root/일지/2023-12-13.md"
               }
             }
           },
@@ -277,9 +169,17 @@
               "type": "juggl_nodes",
               "state": {}
             }
+          },
+          {
+            "id": "192d77b6f4605b9b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -300,14 +200,24 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f85f8dc9c99f30bc",
+  "active": "49e1412474f3853a",
   "lastOpenFiles": [
+    "Root/일지/2023-12-14.md",
+    "Root/지식/IT/Front/워드프레스.md",
+    "Root/일지/SEO.md",
+    "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
+    "Root/일지/2023-12-13.md",
+    "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
+    "Root/회사/PC/마인드카페 PC.md",
+    "Root/회사/회사.md",
+    "Root/회사/SEO/SEO프로젝트.md",
+    "Root/회사/SEO/Drawing 2023-12-14 17.39.41.excalidraw.md",
+    "Root/지식/IT/Front/브라우저 캐싱.md",
+    "Root/지식/IT/Front/렌더링(웹).md",
     "Root/지식/IT/Front/초기 로딩.md",
     "Root/지식/IT/Front/Critical CSS.md",
-    "Root/지식/IT/Front/렌더링(웹).md",
     "Root/지식/IT/Front/이미지 최적화.md",
     "Root/지식/IT/Front/CDN.md",
-    "Root/지식/IT/Front/브라우저 캐싱.md",
     "Root/지식/IT/Front/Lazy Loading.md",
     "Root/지식/IT/Front/JavaScript 비동기 로딩.md",
     "Root/지식/IT/Front/최소화(Minification).md",
@@ -318,18 +228,8 @@
     "Root/지식/IT/Front/지연 로딩(Lazy Loading).md",
     "Root/지식/IT/Front/적응형 이미지(Responsive Images).md",
     "Root/지식/IT/Front/CSS 최적화.md",
-    "Root/지식/IT/Front/코드 분할(Code Splitting).md",
-    "Root/지식/IT/Front/트리 쉐이킹(Tree Shaking).md",
-    "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
-    "Root/지식/IT/Front/SR(정적 렌더링).md",
-    "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
-    "Root/일지/SEO.md",
-    "Root/지식/IT/Front/워드프레스.md",
-    "Root/지식/지식.md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
-    "Root/일지/2023-12-14.md",
-    "Root/회사/SEO/SEO 미팅 후 FE 관련 기술검증, 결과 정리.md",
     "Root/일지",
     "Root/회사/PC",
     "Root/회사/EAP",
