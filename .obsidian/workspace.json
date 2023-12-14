@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md",
+                "file": "Root/일지/2023-12-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md",
+                "file": "Root/일지/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md",
+                "file": "Root/일지/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/SEO/SEO 미팅 내용 정리.md"
+                "file": "Root/일지/2023-12-14.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   "active": "b5802784a2c3d445",
   "lastOpenFiles": [
     "Root/일지/2023-12-13.md",
-    "Root.md",
+    "Root/일지/2023-12-14.md",
     "Root/회사/SEO/SEO 미팅 내용 정리.md",
+    "Root.md",
     "Root/일지/일지 템플릿.md",
     "Root/회사/1.7 테스트케이스 추가.md",
     "Root/회사/admin/마인드카페 Admin(어드민).md",
@@ -253,7 +254,6 @@
     "dad.md",
     "juggl(저글).md",
     "무제 파일.canvas",
-    "Drawing 2023-12-12 10.27.57.excalidraw.md",
-    "sister Lara.md"
+    "Drawing 2023-12-12 10.27.57.excalidraw.md"
   ]
 }
