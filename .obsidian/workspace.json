@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e60ed6fee4fe712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/일지/MBTI 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/일지/2023-12-15.md",
+                "file": "Root/일지/MBTI 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/일지/2023-12-15.md",
+                "file": "Root/일지/MBTI 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/일지/2023-12-15.md"
+                "file": "Root/일지/MBTI 프로젝트.md"
               }
             }
           },
@@ -200,13 +212,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "49e1412474f3853a",
+  "active": "4e60ed6fee4fe712",
   "lastOpenFiles": [
-    "Root/일지/2023-12-14.md",
+    "Root/회사/SEO/SEO.md",
+    "Root/일지/MBTI 프로젝트.md",
     "Root/일지/2023-12-15.md",
+    "Root/일지/2023-12-14.md",
     "Root/일지/2023-12-13.md",
     "Root/지식/IT/Front/워드프레스.md",
-    "Root/일지/SEO.md",
     "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
     "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
     "Root/회사/PC/마인드카페 PC.md",
@@ -227,7 +240,6 @@
     "Root/지식/IT/Front/이미지 압축(Image Compression).md",
     "Root/지식/IT/Front/웹 포맷 사용.md",
     "Root/지식/IT/Front/지연 로딩(Lazy Loading).md",
-    "Root/지식/IT/Front/적응형 이미지(Responsive Images).md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",
