@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/일지/2023-12-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/일지/2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/일지/2023-12-13.md",
+                "file": "Root/일지/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/일지/2023-12-13.md"
+                "file": "Root/일지/2023-12-15.md"
               }
             }
           },
@@ -203,10 +203,11 @@
   "active": "49e1412474f3853a",
   "lastOpenFiles": [
     "Root/일지/2023-12-14.md",
+    "Root/일지/2023-12-15.md",
+    "Root/일지/2023-12-13.md",
     "Root/지식/IT/Front/워드프레스.md",
     "Root/일지/SEO.md",
     "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
-    "Root/일지/2023-12-13.md",
     "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
     "Root/회사/PC/마인드카페 PC.md",
     "Root/회사/회사.md",
@@ -227,7 +228,6 @@
     "Root/지식/IT/Front/웹 포맷 사용.md",
     "Root/지식/IT/Front/지연 로딩(Lazy Loading).md",
     "Root/지식/IT/Front/적응형 이미지(Responsive Images).md",
-    "Root/지식/IT/Front/CSS 최적화.md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",
