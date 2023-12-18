@@ -44,19 +44,31 @@
             }
           },
           {
-            "id": "4e60ed6fee4fe712",
+            "id": "0130cf79c4a480e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/일지/MBTI 프로젝트.md",
+                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17a1b945ca0af7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/프로젝트/MBTI 프로젝트/React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/일지/MBTI 프로젝트.md",
+                "file": "Root/프로젝트/MBTI 프로젝트/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/일지/MBTI 프로젝트.md",
+                "file": "Root/프로젝트/MBTI 프로젝트/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/일지/MBTI 프로젝트.md"
+                "file": "Root/프로젝트/MBTI 프로젝트/React.md"
               }
             }
           },
@@ -212,11 +224,20 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "4e60ed6fee4fe712",
+  "active": "17a1b945ca0af7ba",
   "lastOpenFiles": [
-    "Root/회사/SEO/SEO.md",
-    "Root/일지/MBTI 프로젝트.md",
+    "Root/프로젝트/MBTI 프로젝트/redux와.md",
+    "Root/프로젝트/MBTI 프로젝트/React.md",
+    "Root/프로젝트/MBTI 프로젝트/zustand.md",
+    "Root/프로젝트/MBTI 프로젝트/reducer.md",
+    "Root/프로젝트/MBTI 프로젝트/redux.md",
+    "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/일지/2023-12-15.md",
+    "Root/프로젝트/MBTI 프로젝트/무제 파일.md",
+    "Root/프로젝트/MBTI 프로젝트",
+    "Root/프로젝트",
+    "Root/일지/일지 템플릿.md",
+    "Root/회사/SEO/SEO.md",
     "Root/일지/2023-12-14.md",
     "Root/일지/2023-12-13.md",
     "Root/지식/IT/Front/워드프레스.md",
@@ -233,13 +254,6 @@
     "Root/지식/IT/Front/이미지 최적화.md",
     "Root/지식/IT/Front/CDN.md",
     "Root/지식/IT/Front/Lazy Loading.md",
-    "Root/지식/IT/Front/JavaScript 비동기 로딩.md",
-    "Root/지식/IT/Front/최소화(Minification).md",
-    "Root/지식/IT/Front/Minification.md",
-    "Root/지식/IT/Front/압축(Compression).md",
-    "Root/지식/IT/Front/이미지 압축(Image Compression).md",
-    "Root/지식/IT/Front/웹 포맷 사용.md",
-    "Root/지식/IT/Front/지연 로딩(Lazy Loading).md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",
@@ -248,8 +262,6 @@
     "Root/회사/admin",
     "Root/회사/전문가 콘솔",
     "Root/회사/SEO",
-    "Root/루틴 1",
-    "Root/지식",
     "무제 파일.canvas"
   ]
 }
