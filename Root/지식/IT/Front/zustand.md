@@ -28,18 +28,17 @@ zustand에 대한 간단한 요약
 7. **테스팅 (Testing)**
     - #### 당장 필요없는 것 같아서 나중에 읽음`
 8. **React 이벤트 핸들러 외부에서 액션 호출 (Calling actions outside a React event handler in pre React 18)**
-    
-    - React 18 이전 버전에서 React 이벤트 핸들러 외부에서 Zustand 액션을 호출하는 방법을 다룹니다.
+    - React는 이벤트 핸들러 외부에서 호출되는 경우 setState를 동기적으로 처리하기 때문에 이벤트 핸들러 외부에서 state를 업데이트하면 React가 컴포넌트를 동기적으로 업데이트하게 됩니다. 따라서 좀비 자식 효과가 발생할 위험이 있습니다. 이벤트 핸들러 외부에서 호출될때는 unstable_batchedUpdates를 사용해야 합니다.
 9. **Map과 Set 사용 (Map and Set Usage)**
-    
-    - Zustand에서 JavaScript의 `Map`과 `Set`과 같은 자료구조를 상태로 사용하는 방법을 설명합니다.
+    - Zustand에서 JavaScript의 `Map`과 `Set`과 같은 자료구조를 상태로 사용할 수 있습니다.
 10. **상태를 URL과 연결 (Connect to state with URL)**
-    
-    - URL의 변경을 상태에 반영하거나, 상태 변경을 URL에 반영하는 방법을 다룹니다.
+    - [[store]]의 상태를 URL 해시에 연결하려면 자체 해시 저장소를 생성할 수 있습니다.
+    - URL 쿼리 매개변수를 state에 연결할 수 있습니다.
 11. **상태 초기화 방법 (How to reset state)**
-    
-    - Zustand 스토어의 상태를 초기 상태로 재설정하는 방법을 설명합니다.
-12. **프롭스로 상태 초기화 (Initialize state with props)**
+    1. initialState 객체로 한번에 변경
+    2. 별도의 액션을 정의하여 초기화
+    3. persist 등 별도의 라이브러리 사용
+12. **프롭스로 상태 초기화 (Initialize state with props)**
     
     - React 컴포넌트의 프롭스를 사용하여 Zustand 스토어의 상태를 초기화하는 방법을 다룹니다.
 13. **슬라이스 패턴 (Slices Pattern)**
