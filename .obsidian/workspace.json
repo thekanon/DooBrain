@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "33f67da4b5032444",
+            "id": "b89a1fc2f357e36a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/지식/IT/Front/불변 상태(Immutable State).md",
+                "file": "Root/지식/IT/Front/Flux.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/Front/불변 상태(Immutable State).md",
+                "file": "Root/지식/IT/Front/Flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/Front/불변 상태(Immutable State).md",
+                "file": "Root/지식/IT/Front/Flux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/Front/불변 상태(Immutable State).md"
+                "file": "Root/지식/IT/Front/Flux.md"
               }
             }
           },
@@ -236,16 +236,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "33f67da4b5032444",
+  "active": "b89a1fc2f357e36a",
   "lastOpenFiles": [
     "Root/지식/IT/Front/zustand.md",
+    "Root/지식/IT/Front/Flux.md",
+    "Root/지식/IT/Front/dispatch.md",
+    "Root/지식/IT/Front/redux.md",
     "Root/지식/IT/Front/불변 상태(Immutable State).md",
     "Root/지식/IT/Front/reducer.md",
     "Root/지식/IT/Front/순수 함수(pure function).md",
     "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/지식/IT/Front/React.md",
     "Root/프로젝트/MBTI 프로젝트/redux와.md",
-    "Root/지식/IT/Front/redux.md",
     "Root/일지/2023-12-15.md",
     "Root/프로젝트/MBTI 프로젝트/무제 파일.md",
     "Root/프로젝트/MBTI 프로젝트",
@@ -264,8 +266,6 @@
     "Root/지식/IT/Front/브라우저 캐싱.md",
     "Root/지식/IT/Front/렌더링(웹).md",
     "Root/지식/IT/Front/초기 로딩.md",
-    "Root/지식/IT/Front/Critical CSS.md",
-    "Root/지식/IT/Front/이미지 최적화.md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",

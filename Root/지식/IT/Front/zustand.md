@@ -8,16 +8,15 @@
 
 zustand에 대한 간단한 요약
 1. **상태 업데이트 (Updating state)**
-    
     - Zustand 스토어 내부의 상태를 변경하는 방법.
     - `set` 함수를 사용해 상태를 업데이트합니다.
 2. **[[불변 상태(Immutable State)]]와 병합 (Immutable state and merging)**
-    
     - Zustand는 불변성을 유지하면서 상태를 업데이트합니다. 새 상태 객체를 반환함으로써 기존 상태와 병합합니다.
 3. **Flux 영감을 받은 실천 (Flux inspired practice)**
-    
-    - Flux 아키텍처에서 영감을 받은 Zustand의 사용 방법. 액션과 스토어 업데이트를 명확히 구분합니다.
-4. **자동 생성 선택자 (Auto Generating Selectors)**
+    - [[Flux]] 아키텍처에서 영감을 받은 Zustand의 사용 방법. 액션과 스토어 업데이트를 명확히 구분합니다.
+    - 단일 store가 좋지만 여러 조각으로 store를 분할 할 수 있음.
+    - [[reducer]]를 사용하지 않아도 되지만 굳이 사용해야 한다면 store의 루트레벨에서 [[dispatch]]를 정의할 수 있음.
+1. **자동 생성 선택자 (Auto Generating Selectors)**
     
     - Zustand에서는 필요한 상태 부분만 선택하여 사용할 수 있는 선택자를 자동으로 생성합니다.
 5. **스토어 액션 없는 실천 (Practice with no store actions)**
