@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17a1b945ca0af7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/zustand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/Front/zustand.md",
+                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/Front/zustand.md",
+                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/Front/zustand.md"
+                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md"
               }
             }
           },
@@ -224,10 +212,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "17a1b945ca0af7ba",
+  "active": "0130cf79c4a480e8",
   "lastOpenFiles": [
-    "Root/지식/IT/Front/의존성 주입(Dependency Injection).md",
     "Root/지식/IT/Front/zustand.md",
+    "Root/지식/IT/Front/의존성 주입(Dependency Injection).md",
     "Root/지식/IT/Front/Context API.md",
     "Root/지식/IT/Front/미들웨어(middleware).md",
     "Root/지식/IT/Front/Flux.md",
