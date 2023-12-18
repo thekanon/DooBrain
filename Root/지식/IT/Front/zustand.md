@@ -19,10 +19,11 @@ zustand에 대한 간단한 요약
     - [[미들웨어(middleware)]]를 통해 비동기처리, 상태 지속 등에 활용할 수 있음
 4. **자동 생성 선택자 (Auto Generating Selectors)**
     - Zustand 스토어에서 필요한 부분의 상태만 선택적으로 구독할 수 있도록 도와줍니다. 이를 통해 컴포넌트가 스토어의 특정 부분에만 의존하게 되며, 상태의 다른 부분이 변경되어도 해당 컴포넌트가 불필요하게 리렌더링 되는 것을 방지할 수 있습니다.
-1. **스토어 액션 없는 실천 (Practice with no store actions)**
-    
+    - 복잡하고 어려운 방식으로 redux와 유사한 함수를 직접 정의할 수도 있습니다.
+5. **스토어 액션 없는 실천 (Practice with no store actions)**
     - 액션을 별도로 정의하지 않고, 상태 업데이트를 직접 수행하는 방식입니다.
-6. **TypeScript 가이드 (TypeScript Guide)**
+    - 
+1. **TypeScript 가이드 (TypeScript Guide)**
     
     - Zustand를 TypeScript와 함께 사용하는 방법을 안내합니다. 타입 안정성을 제공합니다.
 7. **테스팅 (Testing)**
