@@ -22,13 +22,11 @@ zustand에 대한 간단한 요약
     - 복잡하고 어려운 방식으로 redux와 유사한 함수를 직접 정의할 수도 있습니다.
 5. **스토어 액션 없는 실천 (Practice with no store actions)**
     - 액션을 별도로 정의하지 않고, 상태 업데이트를 직접 수행하는 방식입니다.
-    - 
-1. **TypeScript 가이드 (TypeScript Guide)**
-    
-    - Zustand를 TypeScript와 함께 사용하는 방법을 안내합니다. 타입 안정성을 제공합니다.
+6. **TypeScript 가이드 (TypeScript Guide)**
+    - TypeScript를 사용할 때의 차이점은 `create(...)`을 작성하는 대신 `create<T>()(...)`를 작성해야 한다는 것입니다(추가 괄호에 주의하세요 `()` 또한 유형 매개변수와 함께) 여기서 `T`는 주석을 추가할 상태의 유형입니다.
+    - 왜 초기상태에서 유형 추론이 안되냐면, T는 불변이기 때문임.
 7. **테스팅 (Testing)**
-    
-    - Zustand 스토어와 상태를 테스트하는 방법을 설명합니다.
+    - #### 당장 필요없는 것 같아서 나중에 읽음`
 8. **React 이벤트 핸들러 외부에서 액션 호출 (Calling actions outside a React event handler in pre React 18)**
     
     - React 18 이전 버전에서 React 이벤트 핸들러 외부에서 Zustand 액션을 호출하는 방법을 다룹니다.
