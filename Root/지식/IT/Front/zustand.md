@@ -14,12 +14,12 @@ zustand에 대한 간단한 요약
     - Zustand는 불변성을 유지하면서 상태를 업데이트합니다. 새 상태 객체를 반환함으로써 기존 상태와 병합합니다.
 3. **Flux 영감을 받은 실천 (Flux inspired practice)**
     - [[Flux]] 아키텍처에서 영감을 받은 Zustand의 사용 방법. 액션과 스토어 업데이트를 명확히 구분합니다.
-    - 단일 store가 좋지만 여러 조각으로 store를 분할 할 수 있음.
-    - [[reducer]]를 사용하지 않아도 되지만 굳이 사용해야 한다면 store의 루트레벨에서 [[dispatch]]를 정의할 수 있음.
-1. **자동 생성 선택자 (Auto Generating Selectors)**
-    
-    - Zustand에서는 필요한 상태 부분만 선택하여 사용할 수 있는 선택자를 자동으로 생성합니다.
-5. **스토어 액션 없는 실천 (Practice with no store actions)**
+    - 단일 [[스토어(Store)]]가 좋지만 여러 조각으로 store를 분할 할 수 있음.
+    - [[reducer]]를 사용하지 않아도 되지만 굳이 사용해야 한다면 store의 루트레벨에서 [[디스패치(dispatch)]]를 정의할 수 있음.
+    - [[미들웨어(middleware)]]를 통해 비동기처리, 상태 지속 등에 활용할 수 있음
+4. **자동 생성 선택자 (Auto Generating Selectors)**
+    - Zustand 스토어에서 필요한 부분의 상태만 선택적으로 구독할 수 있도록 도와줍니다. 이를 통해 컴포넌트가 스토어의 특정 부분에만 의존하게 되며, 상태의 다른 부분이 변경되어도 해당 컴포넌트가 불필요하게 리렌더링 되는 것을 방지할 수 있습니다.
+1. **스토어 액션 없는 실천 (Practice with no store actions)**
     
     - 액션을 별도로 정의하지 않고, 상태 업데이트를 직접 수행하는 방식입니다.
 6. **TypeScript 가이드 (TypeScript Guide)**

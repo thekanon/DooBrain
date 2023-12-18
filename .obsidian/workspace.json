@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b89a1fc2f357e36a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/Front/Flux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/Front/Flux.md",
+                "file": "Root/지식/IT/Front/zustand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/Front/Flux.md",
+                "file": "Root/지식/IT/Front/zustand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/Front/Flux.md"
+                "file": "Root/지식/IT/Front/zustand.md"
               }
             }
           },
@@ -236,12 +224,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b89a1fc2f357e36a",
+  "active": "17a1b945ca0af7ba",
   "lastOpenFiles": [
+    "Root/지식/IT/Front/미들웨어(middleware).md",
     "Root/지식/IT/Front/zustand.md",
     "Root/지식/IT/Front/Flux.md",
-    "Root/지식/IT/Front/dispatch.md",
+    "Root/지식/IT/Front/스토어(Store).md",
     "Root/지식/IT/Front/redux.md",
+    "Root/지식/IT/Front/디스패치(dispatch).md",
     "Root/지식/IT/Front/불변 상태(Immutable State).md",
     "Root/지식/IT/Front/reducer.md",
     "Root/지식/IT/Front/순수 함수(pure function).md",
@@ -264,8 +254,6 @@
     "Root/회사/SEO/SEO프로젝트.md",
     "Root/회사/SEO/Drawing 2023-12-14 17.39.41.excalidraw.md",
     "Root/지식/IT/Front/브라우저 캐싱.md",
-    "Root/지식/IT/Front/렌더링(웹).md",
-    "Root/지식/IT/Front/초기 로딩.md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",
