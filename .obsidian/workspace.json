@@ -213,9 +213,17 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "e899f828cd2e9406",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -236,7 +244,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "874b652a1703d8b8",
+  "active": "e899f828cd2e9406",
   "lastOpenFiles": [
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
