@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "b897b94897371c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "087aa28d1f0f15f5",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md"
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md"
               }
             }
           },
@@ -223,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -244,10 +256,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e899f828cd2e9406",
+  "active": "b897b94897371c4e",
   "lastOpenFiles": [
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
     "Root/회사/PC/마인드카페 PC.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
     "Root/회사/PC/제휴 유저 혜택 강조/clearPartnerInfo.md",
@@ -272,7 +285,6 @@
     "Root/지식/IT/Front/reducer.md",
     "Root/지식/IT/Front/순수 함수(pure function).md",
     "Root/지식/IT/Front/React.md",
-    "Root/프로젝트/MBTI 프로젝트/redux와.md",
     "Root/프로젝트/MBTI 프로젝트",
     "Root/프로젝트",
     "Root/지식/IT/Front",
