@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
+                "file": "Root/회사/PC/마인드카페 PC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4913902dd820a082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md"
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,8 +224,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0130cf79c4a480e8",
+  "active": "4913902dd820a082",
   "lastOpenFiles": [
+    "Root/회사/PC/마인드카페 PC.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세).md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselors(전문가 목록).md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택-partner_info.md",
+    "Root/회사/PC/제휴 유저 혜택 강조",
+    "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/지식/IT/Front/zustand.md",
     "Root/지식/IT/Front/의존성 주입(Dependency Injection).md",
     "Root/지식/IT/Front/Context API.md",
@@ -225,7 +245,6 @@
     "Root/지식/IT/Front/불변 상태(Immutable State).md",
     "Root/지식/IT/Front/reducer.md",
     "Root/지식/IT/Front/순수 함수(pure function).md",
-    "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/지식/IT/Front/React.md",
     "Root/프로젝트/MBTI 프로젝트/redux와.md",
     "Root/일지/2023-12-15.md",
@@ -236,12 +255,6 @@
     "Root/회사/SEO/SEO.md",
     "Root/일지/2023-12-14.md",
     "Root/일지/2023-12-13.md",
-    "Root/지식/IT/Front/워드프레스.md",
-    "Root/지식/IT/Front/SSR(서버 사이드 렌더링).md",
-    "Root/지식/IT/Front/CSR(클라이언트 사이드 렌더링).md",
-    "Root/회사/PC/마인드카페 PC.md",
-    "Root/회사/회사.md",
-    "Root/회사/SEO/SEO프로젝트.md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",
@@ -249,7 +262,6 @@
     "Root/회사/EAP",
     "Root/회사/admin",
     "Root/회사/전문가 콘솔",
-    "Root/회사/SEO",
     "무제 파일.canvas"
   ]
 }
