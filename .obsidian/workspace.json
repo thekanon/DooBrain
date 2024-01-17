@@ -56,12 +56,24 @@
             }
           },
           {
-            "id": "4913902dd820a082",
+            "id": "7d4c6a9dfd31b735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "087aa28d1f0f15f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/setPartnerInfoRequest.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,11 +236,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "4913902dd820a082",
+  "active": "7d4c6a9dfd31b735",
   "lastOpenFiles": [
-    "Root/회사/PC/마인드카페 PC.md",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세).md",
+    "Root/회사/PC/제휴 유저 혜택 강조/setPartnerInfoRequest.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - voucher(상품 선택).md",
+    "Root/회사/PC/제휴 유저 혜택 강조/getInitialProps.md",
+    "Root/회사/PC/마인드카페 PC.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/getEapPartnerBenefitBand.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세).md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselors(전문가 목록).md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택-partner_info.md",
@@ -248,13 +265,8 @@
     "Root/지식/IT/Front/React.md",
     "Root/프로젝트/MBTI 프로젝트/redux와.md",
     "Root/일지/2023-12-15.md",
-    "Root/프로젝트/MBTI 프로젝트/무제 파일.md",
     "Root/프로젝트/MBTI 프로젝트",
     "Root/프로젝트",
-    "Root/일지/일지 템플릿.md",
-    "Root/회사/SEO/SEO.md",
-    "Root/일지/2023-12-14.md",
-    "Root/일지/2023-12-13.md",
     "Root/지식/IT/Front",
     "Root/지식/IT",
     "Root/일지",
