@@ -32,4 +32,5 @@
 	2. 배열 있고
 		1. 회기수 없으면 회기수 없다는 배너
 		2. 회기수 있으면  상품 있다는 배너
-4. 
+4. 바우처
+	1. /sale-template-sellers?seller_id api 쳐서 is_available_use_eap_coupon가 0인 상품이 존재하는 상품목록이 있는경우
