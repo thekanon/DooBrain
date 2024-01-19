@@ -73,31 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76f9ffb9d680c921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/인프라/인프라.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8d070afc010c4d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/지식/IT/인프라/쿠버네티스.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -183,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/인프라/쿠버네티스.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/인프라/쿠버네티스.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/인프라/쿠버네티스.md"
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md"
               }
             }
           },
@@ -282,18 +258,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a8d070afc010c4d6",
+  "active": "b897b94897371c4e",
   "lastOpenFiles": [
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+    "Root/회사/PC/마인드카페 PC.md",
     "Root/지식/IT/인프라/인프라.md",
     "Root/지식/IT/인프라/쿠버네티스.md",
     "Root/지식/지식.md",
     "Root/지식/IT/인프라",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/무제 파일.md",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
-    "Root/회사/PC/마인드카페 PC.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
     "Root/회사/PC/제휴 유저 혜택 강조/clearPartnerInfo.md",
     "Root/회사/PC/제휴 유저 혜택 강조/setPartnerInfoRequest.md",
