@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1d24ec0461ab984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+                "file": "Root/지식/IT/인프라/쿠버네티스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+                "file": "Root/지식/IT/인프라/쿠버네티스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+                "file": "Root/지식/IT/인프라/쿠버네티스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md"
+                "file": "Root/지식/IT/인프라/쿠버네티스.md"
               }
             }
           },
@@ -246,12 +234,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a1d24ec0461ab984",
+  "active": "874b652a1703d8b8",
   "lastOpenFiles": [
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/setPartnerInfoRequest.md",
     "Root/지식/IT/인프라/쿠버네티스.md",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
     "Root/회사/PC/마인드카페 PC.md",
     "Root/지식/IT/인프라/인프라.md",
