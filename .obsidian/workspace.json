@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+                "file": "Root/회사/회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cea9da1d631e8bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/SaaS 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff83244e1edf9d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -130,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
-    "collapsed": true
+    "width": 416.5
   },
   "right": {
     "id": "cf607ab3345077b2",
@@ -147,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md"
+                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md"
               }
             }
           },
@@ -246,10 +269,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "32606b794202d1b1",
+  "active": "ff83244e1edf9d7d",
   "lastOpenFiles": [
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA 시나리오.md",
+    "Root/회사/SaaS 프로젝트.md",
+    "Root/회사/SaaS 로그인, 회원가입 flow.md",
+    "SaaS 로그인 / 회원가입 flow.md",
+    "SaaS 로그인 ",
+    "Root/회사/회사.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA 시나리오.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
     "Root/회사/PC/마인드카페 PC.md",
     "Root/회사/PC/제휴 유저 혜택 강조/띠 배너 표시 조건.md",
@@ -272,10 +300,6 @@
     "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/지식/IT/Front/zustand.md",
     "Root/지식/IT/Front/의존성 주입(Dependency Injection).md",
-    "Root/지식/IT/Front/Context API.md",
-    "Root/지식/IT/Front/미들웨어(middleware).md",
-    "Root/지식/IT/Front/Flux.md",
-    "Root/지식/IT/Front/스토어(Store).md",
     "Root/프로젝트/MBTI 프로젝트",
     "Root/프로젝트",
     "Root/지식/IT/Front",
@@ -283,7 +307,6 @@
     "Root/일지",
     "Root/회사/PC",
     "Root/회사/EAP",
-    "Root/회사/admin",
     "무제 파일.canvas"
   ]
 }
