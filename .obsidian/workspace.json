@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/지식/프론트엔드 최적화 가이드.md",
+                "file": "Root/회사/PC/마인드카페 PC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0d7772180b1f06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/프론트엔드 최적화 가이드.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/프론트엔드 최적화 가이드.md",
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/프론트엔드 최적화 가이드.md"
+                "file": "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md"
               }
             }
           },
@@ -281,10 +293,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c9f5d410db83392d",
+  "active": "f0d7772180b1f06c",
   "lastOpenFiles": [
-    "Root/지식/지식.md",
+    "Root/회사/PC/마인드카페 PC.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
     "Root/지식/프론트엔드 최적화 가이드.md",
+    "Root/지식/지식.md",
     "Root/회사/SaaS 로그인, 회원가입 flow.md",
     "Root/회사/SaaS 프로젝트.md",
     "SaaS 로그인 / 회원가입 flow.md",
@@ -293,7 +307,6 @@
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA 시나리오.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
-    "Root/회사/PC/마인드카페 PC.md",
     "Root/회사/PC/제휴 유저 혜택 강조/띠 배너 표시 조건.md",
     "Root/지식/IT/인프라/쿠버네티스.md",
     "Root/회사/PC/제휴 유저 혜택 강조/setPartnerInfoRequest.md",
@@ -302,7 +315,6 @@
     "Root/지식/IT/인프라",
     "Root/회사/PC/제휴 유저 혜택 강조/무제 파일.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
     "Root/회사/PC/제휴 유저 혜택 강조/clearPartnerInfo.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - voucher(상품 선택).md",
     "Root/회사/PC/제휴 유저 혜택 강조/getInitialProps.md",
