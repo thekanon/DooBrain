@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md",
+                "file": "Root/지식/지식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9f5d410db83392d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/지식/프론트엔드 최적화 가이드.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md",
+                "file": "Root/지식/프론트엔드 최적화 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md",
+                "file": "Root/지식/프론트엔드 최적화 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/SaaS 로그인, 회원가입 flow.md"
+                "file": "Root/지식/프론트엔드 최적화 가이드.md"
               }
             }
           },
@@ -269,10 +281,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ff83244e1edf9d7d",
+  "active": "c9f5d410db83392d",
   "lastOpenFiles": [
-    "Root/회사/SaaS 프로젝트.md",
+    "Root/지식/지식.md",
+    "Root/지식/프론트엔드 최적화 가이드.md",
     "Root/회사/SaaS 로그인, 회원가입 flow.md",
+    "Root/회사/SaaS 프로젝트.md",
     "SaaS 로그인 / 회원가입 flow.md",
     "SaaS 로그인 ",
     "Root/회사/회사.md",
@@ -285,7 +299,6 @@
     "Root/회사/PC/제휴 유저 혜택 강조/setPartnerInfoRequest.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 Todo.md",
     "Root/지식/IT/인프라/인프라.md",
-    "Root/지식/지식.md",
     "Root/지식/IT/인프라",
     "Root/회사/PC/제휴 유저 혜택 강조/무제 파일.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
@@ -299,7 +312,6 @@
     "Root/회사/PC/제휴 유저 혜택 강조",
     "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/지식/IT/Front/zustand.md",
-    "Root/지식/IT/Front/의존성 주입(Dependency Injection).md",
     "Root/프로젝트/MBTI 프로젝트",
     "Root/프로젝트",
     "Root/지식/IT/Front",
