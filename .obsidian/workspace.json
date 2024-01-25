@@ -133,14 +133,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/20240124 스테이지 QA.md",
+                "file": "Root/회사/회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82df32a3aa6d1a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/PC/마인드카페 PC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def0c8753b95b274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/회사/PC/회기수 수동 조작 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/20240124 스테이지 QA.md",
+                "file": "Root/회사/PC/회기수 수동 조작 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/20240124 스테이지 QA.md",
+                "file": "Root/회사/PC/회기수 수동 조작 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/PC/제휴 유저 혜택 강조/20240124 스테이지 QA.md"
+                "file": "Root/회사/PC/회기수 수동 조작 프로젝트.md"
               }
             }
           },
@@ -305,21 +329,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "43aa31da9570c89d",
+  "active": "def0c8753b95b274",
   "lastOpenFiles": [
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
+    "Root/회사/PC/마인드카페 PC.md",
+    "Root/회사/PC/회기수 수동 조작 프로젝트.md",
+    "Root/회사/회사.md",
     "Root/회사/PC/제휴 유저 혜택 강조/20240124 스테이지 QA.md",
+    "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 강조 프로젝트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA포인트.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 띠 배너.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택-partner_info.md",
-    "Root/회사/PC/마인드카페 PC.md",
     "Root/지식/프론트엔드 최적화 가이드.md",
     "Root/지식/지식.md",
     "Root/회사/SaaS 로그인, 회원가입 flow.md",
     "Root/회사/SaaS 프로젝트.md",
     "SaaS 로그인 / 회원가입 flow.md",
     "SaaS 로그인 ",
-    "Root/회사/회사.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴 유저 혜택 QA 시나리오.md",
     "Root/회사/PC/제휴 유저 혜택 강조/띠 배너 표시 조건.md",
     "Root/지식/IT/인프라/쿠버네티스.md",
@@ -335,7 +360,6 @@
     "Root/회사/PC/제휴 유저 혜택 강조/getEapPartnerBenefitBand.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselors(전문가 목록).md",
     "Root/회사/PC/제휴 유저 혜택 강조",
-    "Root/프로젝트/MBTI 프로젝트/MBTI 프로젝트.md",
     "Root/프로젝트/MBTI 프로젝트",
     "Root/프로젝트",
     "Root/지식/IT/Front",
