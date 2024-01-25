@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/회사/admin/상담권 등록 페이지, 판메 템플릿.md",
+                "file": "Root/회사/admin/상담권 등록 페이지, 판매 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/admin/상담권 등록 페이지, 판메 템플릿.md",
+                "file": "Root/회사/admin/상담권 등록 페이지, 판매 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/admin/상담권 등록 페이지, 판메 템플릿.md",
+                "file": "Root/회사/admin/상담권 등록 페이지, 판매 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/admin/상담권 등록 페이지, 판메 템플릿.md"
+                "file": "Root/회사/admin/상담권 등록 페이지, 판매 템플릿.md"
               }
             }
           },
@@ -344,7 +344,7 @@
   "active": "99e2b7cb835772f5",
   "lastOpenFiles": [
     "Root/회사/PC/마인드카페 PC.md",
-    "Root/회사/admin/상담권 등록 페이지, 판메 템플릿.md",
+    "Root/회사/admin/상담권 등록 페이지, 판매 템플릿.md",
     "Root/회사/PC/회기수 수동 조작 프로젝트.md",
     "Root/회사/회사.md",
     "Root/회사/PC/제휴 유저 혜택 강조/20240124 스테이지 QA.md",
