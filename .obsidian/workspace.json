@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인프라",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "right": {
     "id": "cf607ab3345077b2",
@@ -366,7 +367,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6e44e65fc2d28eee",
+  "active": "b62066f6abaa049c",
   "lastOpenFiles": [
     "Root/지식/IT/인프라/인프라.md",
     "Root/지식/IT/인프라/빌드 관련 문제.md",
