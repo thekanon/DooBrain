@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root/지식/IT/인프라/빌드 관련 문제.md",
+                "file": "Root/회사/EAP홈페이지 작업.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "아토",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
-    "collapsed": true
+    "width": 416.5
   },
   "right": {
     "id": "cf607ab3345077b2",
@@ -268,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/지식/IT/인프라/빌드 관련 문제.md",
+                "file": "Root/회사/EAP홈페이지 작업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/지식/IT/인프라/빌드 관련 문제.md",
+                "file": "Root/회사/EAP홈페이지 작업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/지식/IT/인프라/빌드 관련 문제.md"
+                "file": "Root/회사/EAP홈페이지 작업.md"
               }
             }
           },
@@ -367,10 +366,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b62066f6abaa049c",
+  "active": "6e44e65fc2d28eee",
   "lastOpenFiles": [
-    "Root/지식/IT/인프라/인프라.md",
     "Root/지식/IT/인프라/빌드 관련 문제.md",
+    "Root/지식/IT/인프라/인프라.md",
     "Root/지식/지식.md",
     "Root/회사/EAP홈페이지 작업.md",
     "Root/회사/회사.md",
