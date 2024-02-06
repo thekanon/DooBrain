@@ -191,11 +191,14 @@
             "id": "6e44e65fc2d28eee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Root/회사/EAP홈페이지 작업.md",
-                "mode": "source",
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -246,8 +249,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root/회사/EAP홈페이지 작업.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root/회사/EAP홈페이지 작업.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root/회사/EAP홈페이지 작업.md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -366,12 +368,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6e44e65fc2d28eee",
+  "active": "0f630f777068647f",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Root/회사/EAP홈페이지 작업.md",
     "Root/지식/IT/인프라/빌드 관련 문제.md",
     "Root/지식/IT/인프라/인프라.md",
     "Root/지식/지식.md",
-    "Root/회사/EAP홈페이지 작업.md",
     "Root/회사/회사.md",
     "Root/회사/admin/상담권 등록 페이지, 판매 템플릿.md",
     "Root/회사/PC/마인드카페 PC.md",
@@ -395,7 +398,6 @@
     "Root/회사/PC/제휴 유저 혜택 강조/무제 파일.md",
     "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - counselor(전문가 상세), 심리검사 상세.md",
     "Root/회사/PC/제휴 유저 혜택 강조/clearPartnerInfo.md",
-    "Root/회사/PC/제휴 유저 혜택 강조/제휴혜택 - voucher(상품 선택).md",
     "Root/회사/PC/제휴 유저 혜택 강조",
     "Root/프로젝트/MBTI 프로젝트",
     "Root/프로젝트",
@@ -403,7 +405,6 @@
     "Root/지식/IT",
     "Root/일지",
     "Root/회사/PC",
-    "Root/회사/EAP",
-    "무제 파일.canvas"
+    "Root/회사/EAP"
   ]
 }
